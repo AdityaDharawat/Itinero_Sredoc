@@ -1,7 +1,4 @@
 # 🌍 Itinero Sredoc – AI-Powered Travel Planner  
-
-![Itinero Sredoc Banner](https://images.unsplash.com/photo-1503220317375-aaad61436b1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
-
 > **"The journey of a thousand miles begins with a single AI-generated itinerary."**  
 
 ## 🚀 Table of Contents  
@@ -46,9 +43,6 @@ Traditional travel apps give static recommendations. We provide dynamic, AI-craf
 | **📊 Expense Tracker** | Automatic categorization of travel expenses |  
 | **📸 Memory Keeper** | Geo-tagged photo journal with timeline view |  
 | **🗣️ Voice Commands** | "Add wine tasting in Tuscany on Wednesday afternoon" |  
-
-![Feature Showcase](https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
-
 ---
 
 ## 🛠️ Tech Stack  
