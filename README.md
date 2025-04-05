@@ -146,17 +146,6 @@ const fetchFlights = async (params: FlightQuery) => {
 ```
 
 ---
-
-## 📸 Screenshots  
-
-<div align="center">
-  <img src="https://via.placeholder.com/400x800/3d5a80/ffffff?text=AI+Itinerary" width="30%" alt="AI Itinerary Screen">
-  <img src="https://via.placeholder.com/400x800/98c1d9/ffffff?text=Interactive+Map" width="30%" alt="Map View">
-  <img src="https://via.placeholder.com/400x800/ee6c4d/ffffff?text=Expense+Tracker" width="30%" alt="Budget Screen">
-</div>
-
----
-
 ## 🗺️ Roadmap  
 
 - [x] Phase 1: Core itinerary generator  
